@@ -9,4 +9,11 @@ body {
   p {
     color: red;
   }
+
+  button {
+      padding: 10px;
+      border: 1px;
+      border-color: #008080;
+      border-radius: 16px;
+  }
   
