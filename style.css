@@ -12,8 +12,13 @@ body {
 
   button {
       padding: 10px;
+<<<<<<< HEAD
       border: 1px;
       border-color: #008080;
       border-radius: 16px;
+=======
+      color: #008080;
+      color: white;
+>>>>>>> feature-nova
   }
   
